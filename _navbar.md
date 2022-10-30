@@ -1,14 +1,12 @@
 <!-- _navbar.md -->
 
-* 链接到我
-  * [博客园地址](https://www.cnblogs.com/Can-daydayup/)
-  * [Github地址](https://github.com/YSGStudyHards)
-  * [知乎地址](https://www.zhihu.com/people/ysgdaydayup)
-  * [掘金地址](https://juejin.cn/user/2770425031690333/posts)
-  * [Gitee地址](https://gitee.com/ysgdaydayup)
+* 网站时间轴
+  
 
 
-* 友情链接
-  * [Docsify](https://docsify.js.org/#/)
-  * [博客园](https://www.cnblogs.com/)
+* 联系到我
+  * [微信公众号](https://mp.weixin.qq.com/s/GIeVwFpIg05zAiglOddXDQ)
+  * [B站](https://space.bilibili.com/107050500)
+  * [Github](https://github.com/Suwords/coderepublic)
+  * [知识星球]()
 
