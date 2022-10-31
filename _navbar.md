@@ -1,12 +1,18 @@
 <!-- _navbar.md -->
-
-* 网站时间轴
-  
-
-
-* 联系到我
-  * [微信公众号](https://mp.weixin.qq.com/s/GIeVwFpIg05zAiglOddXDQ)
-  * [B站](https://space.bilibili.com/107050500)
-  * [Github](https://github.com/Suwords/coderepublic)
-  * [知识星球]()
-
+- [<span class="iconfont icon-icon_fabu"></span> 首页](/README.md)
+  - [☕️ Java](README?id=☕%ef%b8%8f-java)
+  - [🐍 Python](README?id=🐍-python)
+  - [🚀 计算机基础](README?id=🚀-计算机基础)
+  - [📝 面试有招](README?id=📝-面试有招)
+  - [🤖 人工智能](README?id=🤖-人工智能)
+  - [🐋 算法刷题](README?id=🐋-刷题-oj)
+- [<span class="iconfont icon-icon_invite"></span> 面试题](/interview/README)
+  - [📚 算法与数据结构面试题](interview/数据结构与算法面试题.md)
+  - [📖 数据库面试题](interview/数据库面试题.md)
+  - [🐋 操作系统面试题](interview/操作系统面试题.md)
+  - [🔑 计算机网络面试题](interview/计算机网络面试题.md)
+- [<span class="iconfont icon-github1"></span> GitHub](https://github.com/Suwords/coderepublic)
+- <span class="iconfont icon-pingjia"></span> 关于
+  - [<span class="iconfont icon-csdn"></span> 公众号](https://mp.weixin.qq.com/s/GIeVwFpIg05zAiglOddXDQ)
+  - [<span class="iconfont icon-github"></span> BiliBili](https://space.bilibili.com/107050500)
+  - [<span class="iconfont icon-github"></span> 知识星球]()
