@@ -34,6 +34,7 @@
 - [基础Spark Shell的使用](Spark/02.md)
 
 ### SparkCore
+- [拉开SparkRDD的帷幕](Spark/03.md)
 
 ### SparkSQL
 
