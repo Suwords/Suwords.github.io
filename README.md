@@ -35,6 +35,9 @@
 
 ### SparkCore
 - [拉开SparkRDD的帷幕](Spark/03.md)
+- [关键算子的使用]
+- [WordCount及RDD源码分析]
+- [集群功能介绍]
 
 ### SparkSQL
 
