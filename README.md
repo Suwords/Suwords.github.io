@@ -94,7 +94,7 @@
 
 ### SparkMLlib
 
-### SparkleGraphX
+### SparkGraphX
 
 
 ***
