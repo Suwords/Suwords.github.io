@@ -110,6 +110,8 @@
 ## Flink 基础
 - [Flink 基础入门篇-概述与 WorkCount](Flink/base/01.md)
 - [Flink 基础入门篇-Flink 基于 Yarn 启动](Flink/base/02.md)
+- [Flink 基础入门篇-Flink 并行度和 Slot 深度剖析](/Flink//base/03.md)
+
 ***
 
 # 数据治理理论
