@@ -88,6 +88,7 @@
 - [WordCount 及 RDD 源码分析](Spark/Core/05.md)
 - [集群功能介绍](Spark/Core/06.md)
 
+
 ### SparkSQL
 
 ### SparkStreaming
@@ -110,7 +111,9 @@
 ## Flink 基础
 - [Flink 基础入门篇-概述与 WorkCount](Flink/base/01.md)
 - [Flink 基础入门篇-Flink 基于 Yarn 启动](Flink/base/02.md)
-- [Flink 基础入门篇-Flink 并行度和 Slot 深度剖析](/Flink//base/03.md)
+- [Flink 基础入门篇-Flink 并行度和 Slot 深度剖析](Flink/base/03.md)
+- [Flink 基础入门篇-Flink Source 算子](Flink/base/04.md)
+- [Flink 基础入门篇-Flink Transformations 算子](Flink/base/05.md)
 
 ***
 
