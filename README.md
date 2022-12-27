@@ -114,6 +114,9 @@
 - [Flink 基础入门篇-Flink 并行度和 Slot 深度剖析](Flink/base/03.md)
 - [Flink 基础入门篇-Flink Source 算子](Flink/base/04.md)
 - [Flink 基础入门篇-Flink Transformations 算子](Flink/base/05.md)
+- [Flink 基础入门篇-Flink 分区策略](Flink/base/06.md)
+- [Flink 基础入门篇-Flink Sink算子](Flink/base/07.md)
+- [Flink 基础入门篇-Flink State 状态](Flink/base/08.md)
 
 ***
 
