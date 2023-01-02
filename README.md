@@ -26,6 +26,9 @@
 
 ## 数据结构与算法
 
+- [Crazy Algorithm 题目汇总](Algorithm/00.md)
+- [Crazy Algorithm 基础入门篇-](Algorithm/01.md)
+
 ***
 
 ## 计算机网络
