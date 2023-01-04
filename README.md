@@ -27,7 +27,8 @@
 ## 数据结构与算法
 
 - [Crazy Algorithm 题目汇总](Algorithm/00.md)
-- [Crazy Algorithm 基础入门篇-](Algorithm/01.md)
+- [Crazy Algorithm 基础入门篇-复杂度、对数器与二分法](Algorithm/01.md)
+- [Crazy Alogorithm 基础入门篇-异或运算](Algorithm/02.md)
 
 ***
 
