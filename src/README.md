@@ -23,17 +23,7 @@ highlights:
       - title: Spring
         icon: clipboard-check
         details: Spring全家桶，从原理到使用
-        link: https://theme-hope.vuejs.press/guide/markdown/others.html#link-check
-
-      - title: MySQL
-        icon: box-archive
-        details: 了解底层原理，拒绝CURD
-        link: https://theme-hope.vuejs.press/guide/markdown/container.html
-
-      - title: Redis
-        icon: table-columns
-        details: 缓存不是那么简单
-        link: https://theme-hope.vuejs.press/guide/markdown/tabs.html
+        link: https://theme-hope.vuejs.press/guide/markdown/others.html#link-check  
 
       - title: 并发编程
         icon: code
@@ -45,9 +35,34 @@ highlights:
         details: 很难，但很实用
         link: https://theme-hope.vuejs.press/guide/markdown/align.html
 
+      - title: 中间件
+        icon: align-center
+        details: 谁还不会点中间件呢
+        link: https://theme-hope.vuejs.press/guide/markdown/align.html
+
+      - title: MySQL
+        icon: box-archive
+        details: 了解底层原理，拒绝CURD
+        link: https://theme-hope.vuejs.press/guide/markdown/container.html
+
+      - title: Redis
+        icon: table-columns
+        details: 缓存不是那么简单
+        link: https://theme-hope.vuejs.press/guide/markdown/tabs.html
+
+      - title: 云原生
+        icon: align-center
+        details: 拥抱云原生，从云计算到云原生
+        link: https://theme-hope.vuejs.press/guide/markdown/align.html
+
       - title: 大数据
         icon: align-center
         details: 大数据嘛，懂得都懂啦
+        link: https://theme-hope.vuejs.press/guide/markdown/align.html
+
+      - title: 网络安全
+        icon: align-center
+        details: 渗透？攻防？
         link: https://theme-hope.vuejs.press/guide/markdown/align.html
 
       - title: 机器学习
@@ -59,7 +74,12 @@ highlights:
         icon: align-center
         details: 练手？毕设？还在无从下手吗
         link: https://theme-hope.vuejs.press/guide/markdown/align.html
-        
+
+      - title: 技术视野
+        icon: align-center
+        details: 你也不会只想做个码农吧
+        link: https://theme-hope.vuejs.press/guide/markdown/align.html
+
   - header: 布局
     description: 一个带有完整无障碍支持的响应式布局。
     image: /assets/image/layout.svg
