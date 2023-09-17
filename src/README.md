@@ -11,7 +11,7 @@ heroText: 代码之道
 tagline: 患得患失，有理想、迷茫，未知艺术家，小镇青年
 actions:
   - text: 开始阅读 💡
-    link: ./demo/
+    link: ./overview/overview.md
     type: primary
 
   - text: 关于我
