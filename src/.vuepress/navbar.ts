@@ -14,7 +14,7 @@ export default navbar([
         prefix: "bar/",
         children: [],
       },
-      {
+      { 
         text: "组成原理",
         icon: "lightbulb",
         prefix: "foo/",
