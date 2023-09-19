@@ -23,7 +23,7 @@ highlights:
       - title: Spring
         icon: clipboard-check
         details: Spring全家桶，从原理到使用
-        link: https://theme-hope.vuejs.press/guide/markdown/others.html#link-check  
+        link: ./spring/spring-framework.md
 
       - title: 并发编程
         icon: code
