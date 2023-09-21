@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 代码之道
-heroImage: ./pictures/logo/logo.png
+heroImage: /logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
