@@ -1,6 +1,10 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
+import { inject } from '@vercel/analytics';
+ 
+inject();
+
 export default defineUserConfig({
   base: "/",
 
